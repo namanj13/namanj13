@@ -48,14 +48,7 @@
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
----
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=namanjain0113&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=namanjain0113&theme=radical" height="150"/>
-</p>
 
 ---
 
@@ -71,15 +64,13 @@
 
 ### 💡 Problem Solving Profiles
 
-- 🔗 [LeetCode](https://leetcode.com/u/namanjain0113/)  
-- 🔗 [HackerRank](https://www.hackerrank.com/namanjain0113)
-
+- 🔗 [LeetCode](https://leetcode.com/u/namanj913/)  
 ---
 
 ### 🤝 Let’s Connect
 
-- 📬 Email: **namanjain0113@gmail.com**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link-here) *(update this!)*
+- 📬 Email: **namanju931@gmail.com**  
+- 💼 [LinkedIn](https://www.linkedin.com/in/--naman-jain/) *(update this!)*
 
 ---
 
