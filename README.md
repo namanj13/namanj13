@@ -5,13 +5,17 @@ I love turning real-world problems into scalable tech solutions, while constantl
 
 ---
 
-## 📌 About Me
+## 👨‍💻 About Me
 
-🎓 3rd-year B.Tech CSE student at **SRM University, Delhi-NCR**  
-💻 Passionate about full-stack development and building real-world applications  
-🧠 Strong foundation in data structures and algorithms  
-🧩 Curious by nature — always eager to explore new tools and frameworks  
-📚 Believer in consistent learning through projects, practice, and problem-solving
+🎓 Currently a: 3rd-year B.Tech student at SRM University, Delhi-NCR  
+👀 Interests: Full-stack development, real-world applications, and mastering data structures & algorithms  
+💻 Tech Stack: I enjoy working with JavaScript, Java, and Python, and love building projects using modern web technologies  
+🛠️ Currently Working On: Expanding my backend skills and building robust full-stack applications  
+✍️ Fun Fact: When I’m not coding, I enjoy trying out new hobbies and exploring things outside tech — from photography to cooking experiments!  
+📫 Let's Connect: namanju931@gmail.com  
+🔗 LinkedIn: [linkedin](www.linkedin.com/in/--naman-jain)  
+🏆 HackerRank: [HackerRank Profile](https://www.hackerrank.com/namanjain0113)  
+💻 LeetCode: [LeetCode Profile](https://leetcode.com/u/namanj913/)
 
 ---
 
@@ -21,7 +25,7 @@ I love turning real-world problems into scalable tech solutions, while constantl
 JavaScript | Java | Python
 
 ### 🌐 Web Development  
-React.js | Node.js | Express.js | HTML | CSS | Spring Boot
+React.js | Node.js | Express.js | HTML | CSS | Spring Boot | Bootstrap
 
 ### 🗄️ Databases  
 MongoDB | MySQL
@@ -37,8 +41,7 @@ Git | GitHub | Visual Studio Code | Postman
 - **Fitness Factory** – A modern landing page for a gym brand using HTML and CSS  
 - **Real-Time Chat App** – A messaging app using Spring Boot and React.js  
 - **Stock Portfolio Management System** – Track and manage stock investments with real-time data  
-- **Twitter Sentiment Analysis** – Election-related tweet analysis using MapReduce
-
+- **Twitter Sentiment Analysis** – Election-related tweet analysis using MapReduce  
 > 📌 *Check out my pinned repositories for more!*
 
 ---
@@ -50,12 +53,9 @@ Git | GitHub | Visual Studio Code | Postman
 
 ---
 
-## 📫 Contact
+## 🤝 Let’s Connect
 
-📧 Email: namanju931@gmail.com  
-🔗 LinkedIn: www.linkedin.com/in/--naman-jain
-
----
-
-Thanks for visiting my GitHub profile!  
-Let’s build, learn, and grow — one line of code at a time.
+I'm always open to collaborating on meaningful projects, learning new technologies, or just having a great tech conversation.  
+📬 Drop an email at: namanju931@gmail.com  
+🔗 Connect with me on LinkedIn: [linkedin](www.linkedin.com/in/--naman-jain)  
+**Let’s build something awesome together!**
