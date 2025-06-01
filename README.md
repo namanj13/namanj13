@@ -14,7 +14,7 @@ I love turning real-world problems into scalable tech solutions, while constantl
 ✍️ Fun Fact: When I’m not coding, I enjoy trying out new hobbies and exploring things outside tech — from photography to cooking experiments!  
 📫 Let's Connect: namanju931@gmail.com  
 🔗 LinkedIn: [linkedin](https://www.linkedin.com/in/--naman-jain/) 
-🏆 HackerRank: [HackerRank Profile](https://www.hackerrank.com/namanjain0113)  
+🏆 HackerRank: [HackerRank Profile](https://www.hackerrank.com/profile/namanju931) 
 💻 LeetCode: [LeetCode Profile](https://leetcode.com/u/namanj913/)
 
 ---
