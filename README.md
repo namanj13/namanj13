@@ -42,12 +42,7 @@ Git | GitHub | Visual Studio Code | Postman
 - **Twitter Sentiment Analysis** – Election-related tweet analysis using MapReduce  
 > 📌 *Check out my pinned repositories for more!*
 
----
 
-## 💡 Coding Profiles
-
-- [LeetCode](https://leetcode.com/u/namanj9130/)  
-- [HackerRank](https://www.hackerrank.com/namanjain01130)
 
 ---
 
