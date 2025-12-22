@@ -7,7 +7,7 @@ I love turning real-world problems into scalable tech solutions, while constantl
 
 ## 👨‍💻 About Me
 
-🎓 Currently a: 3rd-year B.Tech student at SRM University, Delhi-NCR  
+🎓 Currently a: Final year B.Tech student at SRM University, Delhi-NCR  
 👀 Interests: Full-stack development, real-world applications, and mastering data structures & algorithms  
 💻 Tech Stack: I enjoy working with JavaScript, Java, and Python, and love building projects using modern web technologies  
 🛠️ Currently Working On: Expanding my backend skills and building robust full-stack applications  
