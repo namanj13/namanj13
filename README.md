@@ -39,7 +39,6 @@ Git | GitHub | Visual Studio Code | Postman
 - **Fitness Factory** – A modern landing page for a gym brand using HTML and CSS  
 - **Real-Time Chat App** – A messaging app using Spring Boot and React.js  
 - **Stock Portfolio Management System** – Track and manage stock investments with real-time data  
-- **Twitter Sentiment Analysis** – Election-related tweet analysis using MapReduce  
 > 📌 *Check out my pinned repositories for more!*
 
 
