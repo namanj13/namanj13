@@ -7,7 +7,7 @@ I love turning real-world problems into scalable tech solutions, while constantl
 
 ## 👨‍💻 About Me
 
-👀 Interests: Full-stack development, real-world applications, and mastering data structures & algorithms  
+👀 Interests: Full-stack development, real-world applications.  
 💻 Tech Stack: I enjoy working with JavaScript, Java, and Python, and love building projects using modern web technologies  
 🛠️ Currently Working On: Expanding my backend skills and building robust full-stack applications  
 ✍️ Fun Fact: When I’m not coding, I enjoy trying out new hobbies and exploring things outside tech — from photography to cooking experiments!  
