@@ -7,7 +7,6 @@ I love turning real-world problems into scalable tech solutions, while constantl
 
 ## 👨‍💻 About Me
 
-🎓 Currently a: Final year B.Tech student at SRM University, Delhi-NCR  
 👀 Interests: Full-stack development, real-world applications, and mastering data structures & algorithms  
 💻 Tech Stack: I enjoy working with JavaScript, Java, and Python, and love building projects using modern web technologies  
 🛠️ Currently Working On: Expanding my backend skills and building robust full-stack applications  
@@ -35,10 +34,11 @@ Git | GitHub | Visual Studio Code | Postman
 
 ## 📂 Featured Projects
 
-- **Hue It** – Combines a QR Code generator and Morse Code translator in one creative web tool  
-- **Fitness Factory** – A modern landing page for a gym brand using HTML and CSS  
-- **Real-Time Chat App** – A messaging app using Spring Boot and React.js  
-- **Stock Portfolio Management System** – Track and manage stock investments with real-time data  
+- **Hue It** – Combines a QR Code generator and Morse Code translator in one creative web tool.  
+- **Fitness Factory** – A modern landing page for a gym brand using HTML and CSS.  
+- **Real-Time Chat App** – A messaging app using Spring Boot and React.js.  
+- **Stock Portfolio Management System** – Track and manage stock investments with real-time data.
+- **VisionControl** – A computer vision application that controls mouse, volume, brightness, media, and screenshots using real-time hand gestures.
 > 📌 *Check out my pinned repositories for more!*
 
 
